@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreCashOptions", "MoreCashOptions\MoreCashOptions.csproj", "{6030ACC8-ADFD-47F0-B91E-13C6BF718660}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6030ACC8-ADFD-47F0-B91E-13C6BF718660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6030ACC8-ADFD-47F0-B91E-13C6BF718660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6030ACC8-ADFD-47F0-B91E-13C6BF718660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6030ACC8-ADFD-47F0-B91E-13C6BF718660}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A16E9E5-CB9F-4F2E-824C-E6958A2E1F50}
+	EndGlobalSection
+EndGlobal
